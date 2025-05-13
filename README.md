@@ -1,2 +1,4 @@
-# -gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript
-Desafios &amp; Exercícios 
+Curso: Lógica de programação: mergulhe em programação com JavaScript
+Escola: Alura
+Duração: 06h
+
